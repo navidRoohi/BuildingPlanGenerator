@@ -1,4 +1,4 @@
-# BuildingPlanGenerator
+# Building Plan Generator
 The goal of this project is to generate Architectural plans for Designers and Developers.
 
 generate plans as many you wish at any size and forms, based on flexible and adjustable rules. The algorithm has written in Java and can convert to any other programing languages and platforms. Please have a look at it and let me know if you are interested to be part of this open source and on going project. ( roohinavid At gmail.com )
