@@ -6,11 +6,11 @@ The algorithm has written in Java and can convert to any other programing langua
 Please have a look at it and let me know if you are interested to be part of this open source and on going project.
 
 Current rules are :  
-Property size, building size, wall dimensions, percentage of open spaces, minimum distances between nodes, space float and be modular. 
+Property size, building size, wall dimensions, percentage of open spaces, minimum distances between nodes, float space and be modular. 
 
  ( roohinavid At gmail.com )
  
-Below images are few results from the existing codes:
+These images are few results from the existing codes:
  ![1](https://cloud.githubusercontent.com/assets/13104724/17273748/66611e02-5675-11e6-8f22-5157d3f06777.jpg)
 ![3](https://cloud.githubusercontent.com/assets/13104724/17273745/665e35ca-5675-11e6-99d2-39141bb1be73.jpg)
 ![4b](https://cloud.githubusercontent.com/assets/13104724/17273747/665fc534-5675-11e6-86f9-7a8500034a09.jpg)
