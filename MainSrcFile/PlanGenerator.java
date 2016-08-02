@@ -46,6 +46,7 @@ public class PlanGenerator {
         DrawLib.setVerticalSize(0, n+2);
         startInit();
         produce();
+        setGrid(n);
     }
 
     // Initialization stage
@@ -147,5 +148,22 @@ public class PlanGenerator {
             }
         }
         DrawLib.show();
+    }
+      // Grid
+    public static void setGrid(int n){
+        DrawLib.setPenColor(DrawLib.BLUE);
+        DrawLib.setPenRadius(.001); // 20 cm
+        //horizontal Lines
+        for (int a=0; a<=n+2; a++){
+              for (int b=0; b<n+2; b++){
+                  DrawLib.wall(a, b, a+1, b);
+                }
+           }
+        //Vertocal 
+        for (int a=0; a<=n+2; a++){
+              for (int b=0; b<n+2; b++){
+                  DrawLib.wall(a, b, a, b+1);
+                }
+           }
     }
 }
