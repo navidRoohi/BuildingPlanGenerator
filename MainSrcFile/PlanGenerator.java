@@ -159,7 +159,7 @@ public class PlanGenerator {
                   DrawLib.wall(a, b, a+1, b);
                 }
            }
-        //Vertocal 
+        //Vertical 
         for (int a=0; a<=n+2; a++){
               for (int b=0; b<n+2; b++){
                   DrawLib.wall(a, b, a, b+1);
